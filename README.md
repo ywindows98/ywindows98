@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<a href="https://www.codewars.com/users/Windows98">
+  <img src="https://www.codewars.com/users/Windows98/badges/large" alt="Codewars Stats"/>
+</a>
 <!--
 **ywindows98/ywindows98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
